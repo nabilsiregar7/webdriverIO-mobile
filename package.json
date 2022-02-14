@@ -4,8 +4,8 @@
     "description": "Mobile Automation using WebdriverIO",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "wdio": "wdio run wdio.conf.js"
+        "wdio": "wdio run wdio.conf.js",
+        "wdio-ios": "wdio run wdio-ios.conf.js"
     },
     "repository": {
         "type": "git",
