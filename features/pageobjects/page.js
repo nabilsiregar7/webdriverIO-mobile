@@ -11,3 +11,4 @@ module.exports = class Page {
         return browser.url(`https://stockbit.com/login`)
     }
 }
+
