@@ -12,3 +12,6 @@
 * run the test `npm run wdio`
 * type `npx allure generate && allure open`
 * open index.html file on allure-report folder
+
+## License
+nabilsiregar7
